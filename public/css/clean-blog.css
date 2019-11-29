@@ -409,3 +409,6 @@ footer .copyright {
   font-size: 16px;
   padding: 25px 35px;
 }
+header.masthead.ttt{
+  background: url(../img/home-bg.jpg);
+}
